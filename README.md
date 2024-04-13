@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Forest Meet 🔥](https://forest-meet.com/)
 
-- 🌱 I’m currently learning **React Native*
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **andriiveremchuk313@gmail.com**
 
