@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">A passionate full-stack developer from Ukraine</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m currently working on [Forest Meet 🔥](https://forest-meet.com/)
 
-- 🌱 I’m currently learning **React Native and Go**
+- 🌱 I’m currently learning **React Native*
 
 - 📫 How to reach me **andriiveremchuk313@gmail.com**
 
